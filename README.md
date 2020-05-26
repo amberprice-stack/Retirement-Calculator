@@ -1,5 +1,5 @@
 # Retirement-Calculator
-This program allows the user to enter a person’s age (in years) and current salary. The program displays a person’s total earnings before retirement at age 65, using annual raise rates of 3%, 4%, and 5%.
+The Retirement Calculator program allows the user to enter a person’s age (in years) and current salary. The program displays a person’s total earnings before retirement at age 65.
 
 ![lab](https://i.ibb.co/2sBzhdT/Lab8.png)
 
